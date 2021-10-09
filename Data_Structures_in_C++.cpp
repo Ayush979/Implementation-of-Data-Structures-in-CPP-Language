@@ -1,7 +1,7 @@
 /*Understanding Data Structures in C++ Made By AYUSH AGRAWAL*/
 
 /* This program takes the input from the user his/her name, age and year of birth and print those details using different 
-data structures which is also known as Abstract Data Types (ADTs) QUEUES, STACKS, TREES AND LINKED LIST using different functions applicable on these ADTs 
+Data Structures which is also known as Abstract Data Types (ADTs) QUEUES, STACKS, TREES AND LINKED LIST using different functions applicable on these ADTs 
 and then prints the result using the concept of Queues,Stacks,Linked List and Trees Data Structure in C++*/
 
 /*Program based on the insertion and display operation of queues,stacks,linked list and trees data structures in C++*/
